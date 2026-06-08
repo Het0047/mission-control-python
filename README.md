@@ -71,4 +71,4 @@ python mission_control.py
 
 ## 🎥 Vídeo Pitch
 
-[Assistir ao vídeo](https://youtube.com/SEU_LINK_AQUI)
+[Assistir ao vídeo](https://youtu.be/M2Q0IYTf3KM)
